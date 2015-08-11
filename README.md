@@ -1,4 +1,7 @@
 # webdev-resources
+*"Go read the docs"*
+
+... but sometimes the docs are too difficult/intimadating to understand, especially for those who just started in web development.
 
 This is a curated list of helpful articles, videos, tips and other resources on web development/design found on [The Internets](https://en.wikipedia.org/wiki/Internets). 
 
@@ -10,7 +13,7 @@ Any contributions are welcome. Guidelines to come.
 ##### [1. HTML/CSS](#HTML-and-CSS)
 
 ##### 2. Javascript
-  - 2.1 ES5 
+  - 2.1 General 
   - 2.2 ES6 
 
 ##### 3. Javascript Libraries/Frameworks 
@@ -22,4 +25,7 @@ Any contributions are welcome. Guidelines to come.
 ### HTML and CSS
   - [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
 
-
+### Javascript
+#### General
+#### D3
+http://vicapow.github.io/intro-to-d3-talk/index.html#/
