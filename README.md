@@ -7,44 +7,51 @@ This is a curated list of helpful articles, videos, tips and other resources on 
 
 This is not a list of available frameworks, libraries, and other shinies of different tools and languages. Take a look at the [awesome lists](https://github.com/bayandin/awesome-awesomeness) for that. This list focuses on resources detailing how to use the tools. 
 
-Any contributions are welcome. Guidelines to come.
+Any contributions are welcome.
+Please look at the raw README file for the overall structure of the list.
+Description for each item is recommended but not required.
+More specific Contribution Guidelines to come.
 
 ## Table of Contents
 
-##### [1. HTML/CSS](#html-and-css)
+##### [HTML/CSS](#html-and-css)
 
-##### 2. [Javascript](#javascript)
+##### [Javascript](#javascript)
 
-  - 2.1 General 
-  - 2.2 ES6 
+  - General 
+  - ES6 
 
-##### 3. Javascript Libraries/Frameworks 
+##### Javascript Libraries/Frameworks 
 
-  - 3.1 jQuery
-  - 3.2 underscore
-  - [3.3 D3](#d3)
-  - 3.4 backbone
+  - jQuery
+  - underscore
+  - [D3](#d3)
+  - backbne
 
-##### 4. Web Design
+##### Web Design
 
----
+## Resources
 
+**Legend** 
+**[A]**: Article/Blog **[C]**: Collection/List **[D]**: Documentation 
+**[G]**: Github Repo **[P]**: Pic/Image **[T]**: Tutorial 
+**[V]**: Video
 ### HTML and CSS
 
-  - [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
+  - **[T]** [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/) 
 
----
 
 ### Javascript
 
 #### General
 
-  - [What the heck is the event loop anyways?](https://www.youtube.com/watch?v=8aGhZQkoFbQ&list=PLyVfgU2gtItg3OOaHEPk5SmqfWHDgRenK&index=1)
+  - **[V]** [What the heck is the event loop anyways?](https://www.youtube.com/watch?v=8aGhZQkoFbQ&list=PLyVfgU2gtItg3OOaHEPk5SmqfWHDgRenK&index=1) 
 
----
 
 ### Javascript Libraries/Frameworks
 
-#### D3
+#### D3.js
 
-- [Dashing D3.js](https://www.dashingd3js.com/)
+  - **[T]** [Dashing D3.js](https://www.dashingd3js.com/) 
+  - **[C]** [mbostock's blocks](http://bl.ocks.org/mbostock) - Mike Bostock's collection of different visualization techniques.
+  - **[A]** [Mike Bostock](http://bost.ocks.org/mike/) - Mike Bostock's blog. Shares D3.js techniques and his project when he was at NY Times.
