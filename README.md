@@ -35,8 +35,8 @@ Any contributions are welcome.
 ## Resources
 
 **Legend** 
-**[A]**: Article/Blog **[C]**: Collection/List **[D]**: Documentation 
-**[G]**: Github Repo **[P]**: Pic/Image **[T]**: Tutorial 
+**[A]**: Article/Blog **[C]**: Collection/List **[D]**: Documentation   
+**[G]**: Github Repo **[P]**: Pic/Image **[T]**: Tutorial   
 **[V]**: Video
 
 ### General Programming Concepts
