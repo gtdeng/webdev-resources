@@ -18,7 +18,7 @@ More specific Contribution Guidelines to come.
 
 ##### [Javascript](#javascript)
 
-  - General 
+  - [General](#general) 
   - ES6 
 
 ##### Javascript Libraries/Frameworks 
