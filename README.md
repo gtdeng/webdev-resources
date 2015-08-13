@@ -36,7 +36,7 @@ Any contributions are welcome.
 
   - Sublime Text
 
-## Resources
+#### Legend
 
 |Label   | Description      |Label   | Description      |
 |:------:|:----------------:|:------:|:----------------:|
@@ -44,6 +44,8 @@ Any contributions are welcome.
 |**[C]** | Collection/List  |**[T]** | Tutorial         |
 |**[D]** | Documentation    |**[V]** | Video            |
 |**[G]** | Github Repo      |
+
+## Resources
 
 ### General Programming Concepts
 
