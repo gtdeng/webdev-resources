@@ -32,6 +32,13 @@ Any contributions are welcome.
 
 ##### Web Design
 
+##### REPL Tools
+
+- [Repl.it](http://repl.it/) **[T]**
+- [Plnkr.co](http://plnkr.co/edit/?p=preview) **[T]**
+
+
+
 ##### Tools
 
   - Sublime Text
