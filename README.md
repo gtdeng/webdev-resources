@@ -34,10 +34,8 @@ Any contributions are welcome.
 
 ##### REPL Tools
 
-- [Repl.it](http://repl.it/) **[T]**
-- [Plnkr.co](http://plnkr.co/edit/?p=preview) **[T]**
-
-
+- [Repl.it](http://repl.it/) 
+- [Plnkr.co](http://plnkr.co/edit/?p=preview) 
 
 ##### Tools
 
