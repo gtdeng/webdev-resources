@@ -66,6 +66,7 @@ Any contributions are welcome.
 ##### Backbone
 
   - [An Introduction to Backbone](https://www.youtube.com/watch?v=PcTVQyrWSSs) - Sidney Maestre of Stackmob gives a brief introduction to backbone **[V]**
+  - [Backbone.js for Absolute Beginners](http://adrianmejia.com/blog/2012/09/11/backbone-dot-js-for-absolute-beginners-getting-started/) - From Adrian Mejia's detailed introduction to Backbone.js **[A]**
 
 ### HTML and CSS
 
