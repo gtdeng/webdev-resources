@@ -21,7 +21,7 @@ Any contributions are welcome.
   - [General](#general) 
   - ES6 
 
-##### Javascript Libraries/Frameworks 
+##### [Javascript Libraries and Frameworks](#javascript-libraries-and-frameworks) 
 
   - jQuery
   - underscore
@@ -53,7 +53,7 @@ Any contributions are welcome.
   - [A Re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) - Detailed overview of Javascript by Mozilla **[T]**
   - [What the heck is the event loop anyways?](https://www.youtube.com/watch?v=8aGhZQkoFbQ&list=PLyVfgU2gtItg3OOaHEPk5SmqfWHDgRenK&index=1) - Philip Robert's explains Javascript's event loop in detail. **[V]**
 
-### Javascript Libraries/Frameworks
+### Javascript Libraries and Frameworks
 
 ##### D3
 
